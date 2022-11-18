@@ -5,7 +5,7 @@
         "100": {
           "value": "#9faf70ff",
           "type": "color",
-          "comment": "#9FAF70"
+          "comment": "#9FAF70 a"
         }
       },
       "red": {
@@ -249,6 +249,10 @@
     },
     "token-2": {
       "value": "#ffffffff",
+      "type": "color"
+    },
+    "test": {
+      "value": "#d9d9d9ff",
       "type": "color"
     }
   }
