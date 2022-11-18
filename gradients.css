@@ -1,0 +1,17 @@
+
+:root {
+    --gradientOverlay1: linear-gradient(
+          180deg,
+          #131315 5%,   
+          #12121480 50%,   
+          #131315 100%  
+        )
+        ;    
+    --gradientOverlay2: linear-gradient(
+          180deg,
+          #131315 5%,   
+          #1212143b 50%,   
+          #131315 100%  
+        )
+        ;    
+}

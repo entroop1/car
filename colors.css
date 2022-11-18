@@ -1,0 +1,72 @@
+
+:root {
+    --colorToken1: #ffffff;    
+    --colorToken2: #ffffff;    
+    /* #9FAF70 */
+    --colorPaletteGold100: #9faf70;    
+    /* #DE4040 */
+    --colorPaletteRed100: #de4040;    
+    /* #5FF088 */
+    --colorPaletteGreen80: #5ff088;    
+    /* #68E174 */
+    --colorPaletteGreen15: #68e17426;    
+    /* #131315 */
+    --colorPaletteGray100: #131315;    
+    /* #21222B */
+    --colorPaletteGray80: #21222b;    
+    /* #373742 */
+    --colorPaletteGray60: #373742;    
+    --colorPaletteGray50: #434b58;    
+    /* #4D5561 */
+    --colorPaletteGray40: #4d5561;    
+    --colorPaletteGray30: #6a7d8e;    
+    /* #7E8D9A */
+    --colorPaletteGray20: #7e8d9a;    
+    /* #2C2D52 */
+    --colorPaletteViolet100: #2c2d52;    
+    /* #3C3E6A */
+    --colorPaletteViolet80: #3c3e6a;    
+    --colorPaletteWhite50: #ffffff80;    
+    /* #FFFFFF */
+    --colorPaletteWhite30: #ffffff4d;    
+    /* #FFFFFF */
+    --colorPaletteWhite15: #f9f9f926;    
+    /* #FFFFFF */
+    --colorPaletteWhite80: #ffffffcc;    
+    /* #FFFFFF */
+    --colorPaletteWhite100: #f7f7f7;    
+    --colorBackgroundLight: #4d5561;    
+    --colorBackgroundVerylight: #6a7d8e;    
+    --colorBackgroundInput: #373742;    
+    /* #37C760 */
+    --colorBackgroundButtonprimaryHover: #43c167;    
+    --colorBackgroundButtonprimaryDefault: #5ff088;    
+    --colorBackgroundButtonprimaryDisabled: #4d5561;    
+    /* #37C760 */
+    --colorBackgroundButtonsecondaryHover: #2c2d52;    
+    --colorBackgroundButtonsecondaryDefault: #3c3e6a;    
+    --colorTextWhite: #f7f7f7;    
+    --colorTextLink: #f7f7f7;    
+    --colorTextLinkhover: #acb6bf;    
+    --colorTextDark: #21222b;    
+    --colorTextDisabled: #373742;    
+    --colorTextPlaceholder: #4d5561;    
+    --colorPaletteGray10: #acb6bf;    
+    --colorBackgroundMain: #21222b;    
+    --colorBorderDefault: #6a7d8e;    
+    --colorBorderLight: #373742;    
+    --colorBorderPrimary: #5ff088;    
+    --colorBackgroundActive: #f7f7f7;    
+    --colorBackgroundButtontetiaryHover: #373742;    
+    --colorBorderAlert: #de4040;    
+    --colorTextAlert: #de4040;    
+    --colorBackgroundAlert: #de4040;    
+    --colorBackgroundForeground: #373742;    
+    --colorTextBacklink: #6a7d8e;    
+    --colorBorderWhite: #f7f7f7;    
+    --colorBackgroundSarchbar: #131315;    
+    --colorTextHighlight: #5ff088;    
+    --colorTextDimmed: #6a7d8e;    
+    --colorBackgroundCardheader: #131315;    
+    --colorBackgroundActivehover: #ffffffcc;    
+}
