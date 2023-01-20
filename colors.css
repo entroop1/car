@@ -2,7 +2,7 @@
 :root {
     --colorToken1: #ffffff;    
     --colorToken2: #ffffff;    
-    /* #9FAF70 */
+    /* #9FAF70 a */
     --colorPaletteGold100: #9faf70;    
     /* #DE4040 */
     --colorPaletteRed100: #de4040;    
@@ -69,4 +69,5 @@
     --colorTextDimmed: #6a7d8e;    
     --colorBackgroundCardheader: #131315;    
     --colorBackgroundActivehover: #ffffffcc;    
+    --colorTest: #d9d9d9;    
 }
